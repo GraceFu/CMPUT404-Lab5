@@ -1,8 +1,9 @@
 html,
 body {
-  margin: 0;
+  margin: 5;
   border: 0;
   font-size: 100%;
   background-color: #ffe8d6;
   color: #cb997e;
+  font-family: Arial, Helvetica, sans-serif;
 }
